@@ -1,0 +1,3 @@
+// $(function() {
+$('a.popup').popup();
+// })
